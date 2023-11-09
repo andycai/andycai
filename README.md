@@ -1,4 +1,36 @@
-### Hi there 👋
+## Andy Cai
+
+- Having been coding more than 20 years.
+- Current focuses on Rust and Golang.
+- General interest in Computer Science.
+
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=andycai&custom_title=My+GitHub+Stats&hide=contribs&line_height=24&text_bold=false&hide_border=true) | ![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=andycai&langs_count=5&layout=compact&hide_border=true) |
+| ------------- | ------------- |
+
+#### Programming languages
+- Rust
+- Golang
+- Java
+- C#
+- JavaScript
+- TypeScript
+- Dart
+
+#### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+#### Web development
+- React
+- Vue
+- Svelte
+- Qwik
+
+#### Desktop developement 
+- Tauri
+- Wails
 
 <!--
 **andycai/andycai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
