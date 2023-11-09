@@ -15,6 +15,7 @@
 - JavaScript
 - TypeScript
 - Dart
+- Lua
 
 #### Databases
 - PostgreSQL
@@ -30,7 +31,18 @@
 
 #### Desktop developement 
 - Tauri
+- Flutter
 - Wails
+
+#### Mobile development
+- Flutter
+- Uni-app
+
+#### Game development
+- Unity
+- Cocos Creator
+- LayaAir
+- Egret
 
 <!--
 **andycai/andycai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
