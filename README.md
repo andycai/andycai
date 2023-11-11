@@ -1,8 +1,7 @@
 ## Andy Cai
 
-- Having been coding more than 20 years.
-- Current focuses on Rust and Golang.
-- General interest in Computer Science.
+- I'd been coding more than 20 years.
+- I'm currently focusing on Rust and Golang.
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=andycai&custom_title=My+GitHub+Stats&hide=contribs&line_height=24&text_bold=false&hide_border=true) | ![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=andycai&langs_count=5&layout=compact&hide_border=true) |
 | ------------- | ------------- |
