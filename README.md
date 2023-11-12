@@ -21,12 +21,14 @@
 - MySQL
 - MongoDB
 - Redis
+- SQLite
 
 #### Web development
 - React
 - Vue
 - Svelte
 - Qwik
+- HTMX
 
 #### Desktop developement 
 - Tauri
