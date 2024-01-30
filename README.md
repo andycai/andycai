@@ -14,12 +14,14 @@
 - JavaScript
 - TypeScript
 - Dart
+- Python
 - Lua
 - PHP
 
 #### Databases
 - PostgreSQL
 - MySQL
+- MariaDB
 - MongoDB
 - Redis
 - SQLite
@@ -29,12 +31,15 @@
 - Vue
 - Svelte
 - Qwik
+- Alpine.js
 - HTMX
 
 #### Desktop developement 
 - Tauri
 - Flutter
 - Wails
+- Electron
+- Dioxus
 
 #### Mobile development
 - Flutter
