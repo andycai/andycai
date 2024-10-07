@@ -9,10 +9,10 @@
 #### Programming languages
 - Rust
 - Golang
-- Java
 - C#
 - JavaScript
 - TypeScript
+- Java
 - Dart
 - Python
 - Lua
@@ -30,19 +30,27 @@
 - React
 - Vue
 - Svelte
+- Astro
 - Qwik
+- Solidjs
 - Alpine.js
 - HTMX
+- Tailwind CSS
+- Open Props
+- Supabase
 
-#### Desktop developement 
+#### Desktop developement
 - Tauri
 - Flutter
 - Wails
+- Slint
+- Fyne
 - Electron
 - Dioxus
 
 #### Mobile development
 - Flutter
+- React Navtive
 - Uni-app
 
 #### Game development
