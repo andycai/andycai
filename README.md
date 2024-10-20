@@ -1,12 +1,13 @@
 ## Andy Cai
 
 - I'd been coding more than 20 years.
-- I'm currently focusing on Rust and Golang.
+- I'm currently focusing on C#, Rust and Golang.
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=andycai&custom_title=My+GitHub+Stats&hide=contribs&line_height=24&text_bold=false&hide_border=true) | ![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=andycai&langs_count=5&layout=compact&hide_border=true) |
-| ------------- | ------------- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 
 #### Programming languages
+
 - Rust
 - Golang
 - C#
@@ -19,6 +20,7 @@
 - PHP
 
 #### Databases
+
 - PostgreSQL
 - MySQL
 - MariaDB
@@ -27,6 +29,7 @@
 - SQLite
 
 #### Web development
+
 - React
 - Vue
 - Svelte
@@ -40,23 +43,30 @@
 - Supabase
 
 #### Desktop developement
-- Tauri
+
+- Tauri(Rust)
+- Wails(Golang)
+- Slint(Rust)
+- Fyne(Golang)
+- Iced(Rust)
 - Flutter
-- Wails
-- Slint
-- Fyne
 - Electron
-- Dioxus
 
 #### Mobile development
+
 - Flutter
 - React Navtive
 - Uni-app
 
 #### Game development
+
 - Unity
 - Cocos Creator
 - LayaAir
+- Cocos Creator
+- LayaAir
+- Phaser
+- Defold
 - Egret
 
 <!--
